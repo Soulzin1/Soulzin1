@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá, me chamo Luan Alves
+Iniciante na programção.
 
-<!--
-**Soulzin1/Soulzin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 Cursando Ciência da Computação no IFCE
+- 👨🏻‍💻 Amo programar
+- 😅 Em busca de oportunidades
+- 🎮 Gamer
+- 💻 Atualmente mais focado em:
 
-Here are some ideas to get you started:
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
+            <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+            <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+ 
+<hr>
+<a href="https://www.instagram.com/soulzin010/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     
+
+<a href="https://www.linkedin.com/in/luan-alves-de-oliveira-80a072236/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
